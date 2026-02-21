@@ -3,8 +3,9 @@
 ## AzureAuditor2000
 # Azure Devops enumeration
 
-“If it feels like you could have done this with three lines of PowerShell… you’re probably right.
-But where’s the fun in that?” - Grimwood
+Fairly self explanatory.
+Enumerates Azure DevOps tenancies for quantifacation pre migration and or SAST onboarding etc etc.
 
+Automate the boring sh*t
 
 
